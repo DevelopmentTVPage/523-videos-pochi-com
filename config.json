@@ -22,6 +22,27 @@
                     "email"
                 ],
                 "domain": "videos.pochipochi.com"
+            },
+            "playback": {
+                "autonext": true,
+                "autoplay": true
+            }
+        },
+        "player": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.pochipochi.com"
+            },
+            "playback": {
+                "autonext": true,
+                "autoplay": true
             }
         }
     }
