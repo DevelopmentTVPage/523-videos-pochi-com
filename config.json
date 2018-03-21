@@ -25,7 +25,8 @@
             },
             "playback": {
                 "autonext": true,
-                "autoplay": true
+                "autoplay": true,
+                "preload": true
             }
         },
         "player": {
@@ -42,7 +43,8 @@
             },
             "playback": {
                 "autonext": true,
-                "autoplay": true
+                "autoplay": true,
+                "preload": true
             }
         }
     }
